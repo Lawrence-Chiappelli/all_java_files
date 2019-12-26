@@ -8,7 +8,7 @@ These are Java assignments completed during my enrollment at Atlantic Cape Commm
 3. Paste the code accordingly
 4. Run the code
 
-*Code can now run and be tested*
+*The code can now run and be tested*
 
 ### Description of each program:
 
